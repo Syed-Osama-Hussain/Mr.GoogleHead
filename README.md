@@ -6,15 +6,15 @@ A simple chatbot using React, Django and DialogFlow V1 API.
 * create-react-app
 * python
 
-#Installation:
+# Installation:
 * Download or clone the repository.
 
-#Front end
+# Front end
 * cd frontend/gui.
 * npm install.
 * npm start (to run react front end).
 
-#Back end
+# Back end
 * cd backend/src
 * pip install virtualenv
 * virtualenv mypython
